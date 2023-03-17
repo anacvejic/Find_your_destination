@@ -26,5 +26,5 @@ You can pin your current location custom/manualy or search. Then, you can search
 
 The user can choose the options to pin current position.
 
+![1](https://user-images.githubusercontent.com/65834374/225844925-75b379a3-26bd-4408-9b9e-bf9db533d611.JPG)
 
-![1](https://user-images.githubusercontent.com/65834374/225844566-62f62152-ce96-4227-8076-95a047d855ec.JP
